@@ -1,0 +1,97 @@
+
+
+
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
+.formularioregister{
+
+ 
+    width: 700px;
+    height: 750px;
+    max-height: 900px;
+    
+ 
+    top: 40%;
+    left: 30%;
+  
+    margin-top: 70px;
+    align-content: center;
+    
+    background: linear-gradient(70deg, rgb(173, 166, 166), rgb(255, 184, 31));
+    margin-left: auto;
+   margin-right: auto;
+   
+    
+    
+    
+    }
+
+
+
+
+
+    
+           
+      
+    
+
+    .casillaregister{
+       
+        height: 60px;
+   display: block;
+            width: 250px;
+            margin-bottom: 10px;
+            font-display: block ;
+            text-align: center;
+            margin-left:240px ;
+           
+          position: static;
+       
+          margin-left: auto;
+          margin-right: auto;
+         
+    
+    
+    }
+    input{
+     height: 30px;
+     width: 250px;
+     color: black;
+    }
+.botones{
+    margin-top: 30px;
+}
+    .botonregister1{
+    
+        border-radius: 5px;
+        width: 300px;
+        height: 65px;
+        border-radius: 30px;
+        background-color:rgb(251, 49, 13) ;
+        margin-left:400px ;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 25px;
+        color: black;
+    }
+    .botonregister2{
+    
+    border-radius: 5px;
+    width: 250px;
+        height: 35px;
+    font-size: 25px;
+    background-color:rgb(253, 181, 46); 
+    margin-left:-520px ;
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    bottom: unset;
+    color: black;
+    }
+    

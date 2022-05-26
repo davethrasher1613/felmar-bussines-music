@@ -1,0 +1,102 @@
+
+
+
+
+
+
+h1{
+    text-align: center;
+}
+
+
+.formulariotipo{
+
+ 
+    width: 700px;
+    height: 400px;
+    max-height: 900px;
+    
+ 
+    top: 50%;
+    left: 30%;
+  
+    margin-top: 80px;
+    align-content: center;
+   
+    background: linear-gradient(70deg, rgb(173, 166, 166), rgb(255, 184, 31));
+    margin-left: auto;
+   margin-right: auto;
+  
+   
+    
+    
+    
+    }
+
+
+
+
+
+  
+           
+
+
+    .casillatipo{
+       
+        height: 60px;
+   display: block;
+            width: 250px;
+            margin-bottom: 10px;
+            font-display: block ;
+            text-align: center;
+            margin-left:240px ;
+           
+          position: static;
+       
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 30px;
+         
+    
+    
+    }
+
+
+    
+ 
+         
+    input{
+             height: 30px;
+     width: 270px;
+     color: black;
+ margin-right : 40px;
+    }
+.botonestipo{
+    margin-top: 30px;
+}
+    .botontipo1{
+    
+        border-radius: 5px;
+        width: 130px;
+        height: 45px;
+        border-radius: 10px;
+        background-color:rgb(224, 146, 0) ;
+        margin-left:370px ;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 35px;
+        color: black;
+    }
+    .botontipo2{
+    
+        border-radius: 5px;
+        width: 250px;
+            height: 45px;
+        font-size: 35px;
+        background-color:rgb(251, 49, 13) ;
+        margin-left:-290px ;
+        font-family:'Times New Roman', Times, serif;
+        align-items: center;
+        bottom: unset;
+        color: black;
+    }
+    

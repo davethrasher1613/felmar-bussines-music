@@ -1,0 +1,116 @@
+
+
+
+
+
+
+h1{
+    text-align: center;
+}
+
+
+.formulariologin{
+
+ 
+    width: 700px;
+    height: 400px;
+    max-height: 900px;
+    
+ 
+    top: 40%;
+    left: 30%;
+  
+    margin-top: 70px;
+    align-content: center;
+   
+    background: linear-gradient(70deg, rgb(173, 166, 166), rgb(255, 184, 31));
+    margin-left: auto;
+   margin-right: auto;
+  
+   
+    
+    
+    
+    }
+
+
+
+
+
+  
+           
+
+
+    .casillalogin{
+       
+        height: 60px;
+   display: block;
+            width: 250px;
+            margin-bottom: 10px;
+            font-display: block ;
+            text-align: center;
+            margin-left:240px ;
+           
+          position: static;
+       
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 30px;
+         
+    
+    
+    }
+
+
+    
+    .casillarecuerdo{
+       
+        height: 60px;
+   display: inline-block;
+            width: 250px;
+            margin-bottom: 10px;
+            font-display: block ;
+            text-align: center;
+            margin-left:240px ;
+           
+          position: static;
+       
+          
+    }
+         
+    input{
+             height: 30px;
+     width: 270px;
+     color: black;
+ margin-right : 40px;
+    }
+.botoneslogin{
+    margin-top: 30px;
+   
+}
+    .botonlogin1{
+    
+        border-radius: 5px;
+        width: 250px;
+        height: 65px;
+        position: relative;
+        background-color:rgb(251, 49, 13) ;
+        margin-left:355px ;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 25px;
+        color: black;
+    }
+    .botonlogin2{
+    
+        border-radius: 5px;
+        width: 250px;
+            height: 35px;
+        font-size: 25px;
+        background-color:rgb(253, 181, 46); 
+        margin-left:-520px ;
+        font-family:'Times New Roman', Times, serif;
+        align-items: center;
+        bottom: unset;
+        color: black;
+    }
+    
